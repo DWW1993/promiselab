@@ -1,12 +1,12 @@
-Warm up
+<!-- Warm up -->
 
-Fulfill a promise
+<!-- Fulfill a promise -->
 
-Reject a promise
+<!-- Reject a promise -->
 
-To reject or not to reject
+<!-- To reject or not to reject -->
 
-Always asynchronous
+<!-- Always asynchronous -->
 
 Shortcuts
 
