@@ -8,8 +8,8 @@
 
 <!-- Always asynchronous -->
 
-Shortcuts
+<!-- Shortcuts -->
 
-Promise after promise
+<!-- Promise after promise -->
 
-Values and promises
+<!-- Values and promises -->
