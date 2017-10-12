@@ -9,7 +9,7 @@
 <!-- Always asynchronous -->
 
 <!-- Shortcuts -->
-
+ 
 <!-- Promise after promise -->
 
 <!-- Values and promises -->
